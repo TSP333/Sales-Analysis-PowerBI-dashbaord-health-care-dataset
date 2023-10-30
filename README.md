@@ -1,5 +1,7 @@
 # Sales-Analysis-PowerBI-dashbaord-health-care-dataset
 
+The dashboard uses NHS prescribing data to show products that have been dispensed within the community, this dashboard will allow the customer to understand how much of their product has been sold over time
+
 •             A line chart showing sales of over time
 
 •             A pie chart showing market share of the each product with the ability to change the time frame
